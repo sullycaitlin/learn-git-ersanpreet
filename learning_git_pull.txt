@@ -1,0 +1,1 @@
+This file is created to learn git pull which is pulling changes from the remote to the local.
